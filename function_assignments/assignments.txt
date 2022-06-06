@@ -1,0 +1,21 @@
+1 . write a function which will take stringf and return a len of it withiut using a inbuilt fun len()
+2.  write a function which will be able to print index of all the primitive element which ypu will pass
+3. write a function wi=which will take nput as a  dictionary and give me output as list of all v vlaues even in csse of 2 levl nesting it should work
+4. write a fun which will take another fun as as input and return ,e an output
+5.write a function which will take multiple lisT AS A INPIT  AND GIVE ME CONCATENATION OF AL THE ELEMents asa an output
+6. write a function which willl be able to take a list as a input return an index of each element like a inbuilt index function but even if we have repetatvbe element it should return index
+7. write a fun which should return list of allthe file name from a directory
+8.write a finction which will able to show your system configuration
+9. write a fuction which will be able to show date and time
+10.write a function which will be able to read a image file and show it to you
+11. write a func
+tion which can read video file and play for you
+12. write a function which can move a file form one directory to another diectory
+13.write a fun which will be able to shoutfowm ypihr system
+14.write a function whicch will be able to access youe email
+15.writwe a function  which i can send a mail to anyone
+16.write afun to read  a complete PDF file
+17.write a fun to read a worf file
+18.write a function wjich can help you to filter only word file form a directory.
+19. write a function by which you canprint an ip address of your system
+20. write a functuion by which you be able to append two PDF file
